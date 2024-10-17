@@ -1,0 +1,2 @@
+Overview
+This project provides a framework for testing and executing various MySQL queries on the Sakila sample database. The Sakila dataset is a well-known example database provided by MySQL, which contains data related to a fictional video rental store. This project aims to help developers, data analysts, and database enthusiasts practice and validate their SQL query skills using this rich dataset.
